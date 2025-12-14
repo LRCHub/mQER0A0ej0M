@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hey Jude",
+  "base_artist": "The Beatles",
+  "createdAt": "2025-12-14T20:05:06.176935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Jazz Crusaders",
+      "has_synced": false,
+      "path": "select/02_Hey_Jude_The_Jazz_Crusaders.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Crusaders",
+      "has_synced": false,
+      "path": "select/03_Hey_Jude_The_Crusaders.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/06_Hey_Jude_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/08_Hey_Jude_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Jude (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/09_Hey_Jude_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Jude - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Hey_Jude_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Jude (2015 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Hey_Jude_(2015_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Hey_Jude_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Jude (Take 2)",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/15_Hey_Jude_(Take_2)_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Jude (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Hey_Jude_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Jude_The_Beatles.txt"
+    }
+  ]
+}
